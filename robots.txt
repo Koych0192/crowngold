@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://crowngold.pages.dev/sitemap.xml
+Sitemap: https://crowngold-3cl.pages.dev/sitemap.xml
